@@ -1,0 +1,9 @@
+# Site settings
+title: Niccole Santos
+author:
+  name: Niccole Santos
+  email: niccolesantos@yahoo.com
+description: "My portfolio"
+
+# Build settings
+remote_theme: jekyll/minima

@@ -1,9 +1,3 @@
-# Site settings
-title: Niccole Santos
-author:
-  name: Niccole Santos
-  email: niccolesantos@yahoo.com
-description: "My portfolio"
-
-# Build settings
-remote_theme: jekyll/minima
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
